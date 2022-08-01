@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@Koboda](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@Koboda](https://t.me/Koboda)</code>
 <code>📫 [email](mailto:olegshulgakalendar@gmail.com)</code>
