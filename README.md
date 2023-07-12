@@ -1,7 +1,5 @@
 <code>🎓 SPB Institute of Technology</code>
-<code>⚪ Community: _</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code>
 <code>🧑‍💻 Languages: JavaScript</code><br>
